@@ -57,8 +57,12 @@
         }
       ],
       "drc_exclusions": [
-        "lib_footprint_issues|140020842|134516688|b5d8eb75-a8eb-4dbe-b5f5-68be597e61bd|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|156079157|95916688|b5d8eb75-a8eb-4dbe-b5f5-68be597e61bd|00000000-0000-0000-0000-000000000000"
+        "lib_footprint_issues|137447893|108041720|9966f416-2a64-414a-8417-292154e9aa63|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|137520842|100016688|b5d8eb75-a8eb-4dbe-b5f5-68be597e61bd|00000000-0000-0000-0000-000000000000",
+        "silk_edge_clearance|169540000|83000000|ca759339-a636-49e1-b641-245aab8c2add|8f39db97-2b8a-4ef4-a5dc-5b2b276c3070",
+        "silk_edge_clearance|169540000|83000000|ca759339-a636-49e1-b641-245aab8c2add|f3ab3a98-72e3-4ea7-b900-2c19a8214daf",
+        "silk_edge_clearance|187540000|83000000|ca759339-a636-49e1-b641-245aab8c2add|724c3fa4-2af6-4124-bdc2-a12d6971ae96",
+        "silk_edge_clearance|187540000|83000000|ca759339-a636-49e1-b641-245aab8c2add|d236d723-bc7e-4e9f-90d3-b470b1fb68b7"
       ],
       "meta": {
         "version": 2
@@ -440,9 +444,9 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -512,6 +516,26 @@
     [
       "d7764635-58fb-46ec-b859-3262d065eb36",
       ""
+    ],
+    [
+      "5173f2c9-268c-4998-ac12-9c71d828283a",
+      "RGB Channel1"
+    ],
+    [
+      "6b2dd3c2-3b51-49bb-b030-6e5a9ce6e722",
+      "RGB Channel2"
+    ],
+    [
+      "e0d0be29-ce74-405d-9f3b-23df786aa7ab",
+      "RGB Channel3"
+    ],
+    [
+      "798b4821-d9b8-427b-ba7c-d6f3c6851aa5",
+      "RGB Channel4"
+    ],
+    [
+      "4eab95c2-1ad2-4638-a219-b8e54e38c4f6",
+      "RGB Channel5"
     ]
   ],
   "text_variables": {}
